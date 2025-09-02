@@ -1,29 +1,24 @@
-# Welcome to your Expo app 👋
+# Welcome to Todo Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## How the App looks on Iphone
+<img width="413" height="845" alt="Screenshot 2025-09-02 at 21 25 40" src="https://github.com/user-attachments/assets/2ca4ac3d-b729-4902-bb79-5a1da02d2986" />
 
-1. Install dependencies
+<img width="402" height="845" alt="Screenshot 2025-09-02 at 21 26 05" src="https://github.com/user-attachments/assets/0fea38a9-e133-41c0-b2aa-4aea6dbee6d7" />
 
-   ```bash
-   npm install
-   ```
+<img width="400" height="842" alt="Screenshot 2025-09-02 at 21 26 20" src="https://github.com/user-attachments/assets/11981bdd-c97c-4b2e-8541-4580155f368d" />
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+## How the App looks on Android
 
-In the output, you'll find options to open the app in a
+![IMAGE 2025-09-02 21:29:33](https://github.com/user-attachments/assets/daa8fcf8-fc6c-4f78-8ef7-89c72597d936)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+![IMAGE 2025-09-02 21:29:38](https://github.com/user-attachments/assets/32a4730e-b8a9-4b47-ab4d-c5fc01607ccc)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+![IMAGE 2025-09-02 21:29:49](https://github.com/user-attachments/assets/379a2e4c-df63-4318-991e-9e34fe39b83c)
+
+![IMAGE 2025-09-02 21:29:52](https://github.com/user-attachments/assets/50146a83-5481-49b6-9818-69bfedf5ad55)
+
 
 ## Get a fresh project
 
